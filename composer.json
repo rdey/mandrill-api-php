@@ -13,6 +13,7 @@
     "autoload": {
         "psr-0": {
             "Mandrill": "src/"
-        }
+        },
+        "files": ["src/Mandrill/Exceptions.php"]
     }
 }
